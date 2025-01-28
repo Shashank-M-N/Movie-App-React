@@ -1,5 +1,5 @@
 # Movie App React Project
-This is a simple movie app built using React. The main objective of this project is to learn and practice React concepts like components, props, state, and hooks while building a functional app. You can view the page [here](https://shashank-m-n.github.io/). (Note: The site might be taken down in the future.)
+This is a simple movie app built using React. The main objective of this project is to learn and practice React concepts like components, props, state, and hooks while building a functional app. You can view the page [here, Press home button after u see the page](https://shashank-m-n.github.io/Movie-App-React/). (Note: The site might be taken down in the future.)
 
 ## Features
 - Search for movies using an input field.
