@@ -1,12 +1,11 @@
 # Movie App React Project
-
-This is a simple movie app built using React. The main objective of this project is to learn and practice React concepts like components, props, state, and hooks while building a functional app.
+This is a simple movie app built using React. The main objective of this project is to learn and practice React concepts like components, props, state, and hooks while building a functional app. You can view the page [here](https://shashank-m-n.github.io/). (Note: The site might be taken down in the future.)
 
 ## Features
 - Search for movies using an input field.
 - View a list of movies with thumbnails.
-- Mark movies as favourites.
-- Navigate between "Home" and "Favourites" pages.
+- Mark movies as favorites.
+- Navigate between "Home" and "Favorites" pages.
 
 ## Project Structure
 The project is organized as follows:
@@ -41,7 +40,7 @@ Movie-App-React-Project
 ### Steps to Run the Project
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Shashank-M-N/Movie-App-React.git
    ```
 2. Navigate into the project directory:
    ```bash
